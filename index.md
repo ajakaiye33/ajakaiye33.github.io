@@ -6,3 +6,6 @@ I hope you enjoy yourself as you read my thoughts proceses on diferrent isses pe
 
 
 -- more content to come here later
+
+
+![logo](images/my_logo.jpeg)
