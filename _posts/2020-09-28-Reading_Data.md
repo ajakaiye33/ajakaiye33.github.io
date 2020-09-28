@@ -7,7 +7,7 @@ a new blog courtesy of [**fastai**](https://github.com/fastai/fastpages), I deci
 
 ### Data in the Data Science Process
 
-I make bold to say that the entire Data Science process revolves around one main resource: **DATA**. Data is an essential raw material in the manufacturing of **Data Visualization**
+I make bold to say that the entire Data Science process revolves around one main resource: **DATA**. Data is an essential raw material in the manufacturing of **Data Visualization** and or
 **Models**. While drawing on the analogy to drive home my point about data and its importance in the data Science pipeline, I'm very much aware that we don't literally manufacture
 anything rather a methodical transformation of inputs takes place. Thus raw data as an input is transformed into an output format that solves one problem or needs in the society. 
 No doubt data is very important in the data Science process, but how do we go about getting this data into our data science work environment?
