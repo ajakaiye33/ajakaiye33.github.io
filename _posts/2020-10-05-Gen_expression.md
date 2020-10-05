@@ -1,4 +1,5 @@
-# Wrangling Data With Pythons Generative Expressions :bar_chart:
+# Wrangling Data With Pythons Generative Expressions
+
 ![](/images/clean_data.jpg)
 ### Introduction
 In recent times we have heard it in different quarters that *data is the new oil*
