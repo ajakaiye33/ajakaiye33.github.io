@@ -1,4 +1,4 @@
-# Beginning Data Analysis & Data Science
+# Beginning Data Analysis And Data Science
 
 ![](/images/wide.jpg)
 
