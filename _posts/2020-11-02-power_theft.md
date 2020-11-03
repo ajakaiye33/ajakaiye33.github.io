@@ -1,4 +1,4 @@
-# How  I Built A Power Theft Detector Model
+# Framework of Power Theft Detector Model
 ![](/images/theft.png)
 
 ### Introduction
