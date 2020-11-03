@@ -15,11 +15,11 @@ The course is group into the following broad areas:
 
 -  Student Capstone Project wherein students apply all they have learned to solve data-related problems in the following sectors:
 
-  - Aviation
-  - Banking & Finance
-  - E-Commerce
-  - Logistics & Supply Chain
-  - Energy
+    - Aviation
+    - Banking & Finance
+    - E-Commerce
+    - Logistics & Supply Chain
+    - Energy
 
 My favourite aspect of the program is the Capstone Project session because it provides an opportunity to practice on real-life datasets. I chose the Capstone on Energy as the problem of Energy theft was particularly dear to my heart. I have withness the problem first hand in my former residence, and I could remember asking why was such impunity not detected and the culprit made to face the consequences of the crime of Energy theft as enshrined in the Law.
 Thus curiosity and the passion to apply my newly acquired skills to practical use informed my decision to work on Energy Theft Detector Model.
