@@ -1,3 +1,3 @@
-# Your blog
+# Hello! Welcome to my blog!
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+I believe the best way to learn something is to teach it! To this end, I have decided to create a space wherein I can explain and explore the processes and concepts I encounter in my journey of learning and practising data wrangling, data science, and machine learning. I hope you enjoy yourself as you read my thoughts process on different issues about data science and machine learning.
